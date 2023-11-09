@@ -1,15 +1,5 @@
 # ideforideas-spring-boot
-  
-### Introduction  
-Wikideas-rest is a REST API that represents a encyclopedia that allows the collection, storage and transmission of information in a structured way  
-  
-### Wikideas REST API Features  
-* Create new topic  
-* Update topic  
-* List all topics by title and category name  
-* Find topic by id  
-* List all categories  
-  
+ 
 ## API Endpoints  
 <details>  
  <summary><code>POST</code> <code><b>/topics</b></code> <code>(Save topic)</code></summary>  
